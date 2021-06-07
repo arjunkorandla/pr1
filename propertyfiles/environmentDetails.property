@@ -1,0 +1,20 @@
+baseURL = https://app.front.workwolf.com/login
+username1 = korandla8@gmail.com
+password1 = @Rjunreddy060791
+incorrectUsername = 
+InvalidEmail =
+browser = chrome
+
+baseURL_Sales_rep = baseURL
+
+packagetype1 = bronze
+packagetype2 = silver
+packagetype3 = gold
+packagetype4 = HealthCare
+
+productType1 = badges
+productType2 = 
+productType3 = 
+
+card =12345678997655431234567
+
